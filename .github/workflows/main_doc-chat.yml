@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'Doc-Chat'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8F017BD254E64B1DAD4E52C50E8A3D1A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_211F908327A6457EBE988A7939577639 }}
